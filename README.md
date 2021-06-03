@@ -4,4 +4,4 @@
 
 ---
 
-The repository has been moved to a new location [Julia for Optimization and Learning] (https://github.com/JuliaTeachingCTU/Julia-for-Optimization-and-Learning).
+The repository has been renamed and moved. Use the following link to navigate to the new repository location: [Julia for Optimization and Learning](https://github.com/JuliaTeachingCTU/Julia-for-Optimization-and-Learning).
